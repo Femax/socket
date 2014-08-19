@@ -1,0 +1,14 @@
+{
+  "name": "11",
+  "description": "YOUR PROJECT DESCRIPTION HERE",
+  "author": "YOUR NAME <your@emailaddress.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "3.0.1",
+    "express": "^3.4.8",
+    "express.io": "1.1.13",
+    "nedb": "^0.10.5",
+    "socket.io": "^0.9.0"
+  },
+  "engine": "node >= 0.6.6"
+}
